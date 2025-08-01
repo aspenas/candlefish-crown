@@ -2,7 +2,7 @@
 
 Welcome to the Crown Trophy automation project! This repository contains all documentation, code, and resources for automating Crown Trophy's engraving and order management processes.
 
-## 🎯 Project Vision
+## Project Vision
 
 Transform Crown Trophy's manual processes into an AI-powered automation system that:
 - Reduces engraving data entry from 45+ minutes to under 1 minute
@@ -10,7 +10,7 @@ Transform Crown Trophy's manual processes into an AI-powered automation system t
 - Streamlines order management across multiple locations
 - Potentially saves $4.29M annually across 150 Crown Trophy franchises
 
-## 📋 Quick Links
+## Quick Links
 
 - [Comprehensive Onboarding Guide](./docs/AARON_ONBOARDING.md) - Start here!
 - [Technical Architecture](./docs/TECHNICAL_ARCHITECTURE.md)
@@ -18,7 +18,7 @@ Transform Crown Trophy's manual processes into an AI-powered automation system t
 - [API Documentation](./docs/API_REFERENCE.md)
 - [Meeting Notes & Analysis](./docs/MEETING_ANALYSIS.md)
 
-## 🚀 Quick Start
+## Quick Start
 
 ```bash
 # Clone the repository
@@ -36,7 +36,7 @@ cp .env.example .env.local
 npm run dev
 ```
 
-## 🏗️ Project Status
+## Project Status
 
 **Current Phase**: Planning & Architecture
 **Next Milestone**: MVP with engraving automation (Week 4)
@@ -47,30 +47,30 @@ npm run dev
 - [x] Architecture planning
 - [x] Team onboarding documentation
 
-### In Progress 🔄
+### In Progress
 - [ ] Development environment setup
 - [ ] Core infrastructure implementation
 - [ ] Document intelligence integration
 
-### Upcoming 📅
+### Upcoming
 - [ ] Engraving automation MVP
 - [ ] Order management system
 - [ ] QuickBooks integration
 
-## 👥 Team
+## Team
 
 - **Patrick Smith** - Project Lead & Architecture
 - **Tyler Robinson** - Infrastructure & DevOps
 - **Aaron Westphal** - Full-Stack Development
 - **Marshall** - Crown Trophy Domain Expert
 
-## 📞 Communication
+## Communication
 
 - **Slack Channel**: To be created by Tyler
 - **GitHub Issues**: For tracking development tasks
 - **Weekly Standups**: TBD
 
-## 🔐 Access & Credentials
+## Access & Credentials
 
 All credentials are managed through:
 - **AWS Secrets Manager**: Primary secrets storage
@@ -79,7 +79,7 @@ All credentials are managed through:
 
 Contact Tyler for AWS IAM access setup.
 
-## 📚 Documentation Structure
+## Documentation Structure
 
 ```
 docs/
@@ -91,7 +91,7 @@ docs/
 └── CLAUDE_AGENT_STRUCTURE.md # AI agent configuration
 ```
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 - **Frontend**: Next.js 14, TypeScript, Tailwind CSS
 - **Backend**: Node.js, Express/Fastify
@@ -101,7 +101,7 @@ docs/
 - **Integrations**: QuickBooks Desktop, Corel Draw
 - **Infrastructure**: AWS, Render/Netlify (excellent CLI deployment), Docker
 
-## 📈 Business Impact
+## Business Impact
 
 This project addresses critical pain points:
 1. **Manual Data Entry**: 45+ minutes → <1 minute
@@ -111,11 +111,11 @@ This project addresses critical pain points:
 
 Potential annual savings: **$7.67M** across the Crown Trophy network
 
-## 🤝 Contributing
+## Contributing
 
 Please read our [Contributing Guide](./CONTRIBUTING.md) before submitting PRs.
 
-## 📄 License
+## License
 
 This project is proprietary to Candlefish AI LLC.
 

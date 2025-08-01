@@ -1,6 +1,6 @@
 # Action Items & Team Assignments
 
-## 🚨 Immediate Actions (This Week)
+## Immediate Actions (This Week)
 
 ### For Tyler
 - [ ] **Create Slack channel** for Crown Trophy project team
@@ -14,10 +14,10 @@
   - Redis instance (Upstash)
   - S3 bucket for document storage
 
-### For Aaron
+### Development Track (Aaron's Expertise)
 - [ ] **Review all documentation** in this repository
 - [ ] **Set up local development environment**
-- [ ] **Schedule call with Marshall** to discuss:
+- [ ] **Schedule joint call with Marshall** (Patrick, Aaron, Marshall) to discuss:
   - Corel Draw version and specifics
   - Sample engraving files
   - Most complex use cases
@@ -30,10 +30,10 @@
 ### For Patrick
 - [ ] **Send intro message** to Aaron and Tyler with repo link
 - [ ] **Schedule weekly standup** meetings
-- [ ] **Connect Aaron with Marshall** for domain expertise
+- [ ] **Schedule joint requirements session** with Aaron and Marshall
 - [ ] **Review and approve** architecture decisions
 
-## 📅 Week 1 Deliverables
+## Week 1 Deliverables
 
 ### Development Environment (Aaron + Tyler)
 - [ ] Local dev setup confirmed working
@@ -53,7 +53,7 @@
 - [ ] Monitoring setup started
 - [ ] Backup strategy defined
 
-## 🎯 Week 2-4 Goals
+## Week 2-4 Goals
 
 ### MVP Features (Aaron)
 - [ ] Complete document extraction pipeline
@@ -74,13 +74,13 @@
 - [ ] Performance benchmarks
 - [ ] Security audit checklist
 
-## 📋 Ongoing Responsibilities
+## Ongoing Responsibilities
 
-### Aaron (Lead Developer)
-- Own technical architecture decisions
-- Implement core features
+### Aaron (Development Partner)
+- Lead technical architecture decisions
+- Drive core feature implementation
 - Maintain code quality standards
-- Coordinate with Marshall on requirements
+- Collaborate in requirements sessions with Marshall
 
 ### Tyler (Infrastructure & DevOps)
 - Manage AWS resources
@@ -100,7 +100,7 @@
 - Give feedback
 - Connect with other franchises
 
-## 🔄 Communication Protocol
+## Communication Protocol
 
 ### Daily
 - Update progress in Slack
@@ -116,7 +116,7 @@
 - Budget review
 - Roadmap adjustment
 
-## 🚀 Success Metrics
+## Success Metrics
 
 ### Week 4 (MVP)
 - [ ] Process 300 names in <60 seconds
@@ -136,14 +136,14 @@
 - [ ] Positive user feedback
 - [ ] Ready for scale
 
-## 📞 Key Contacts
+## Key Contacts
 
 - **Patrick Smith**: patrick@candlefish.ai
 - **Tyler Robinson**: tyler@candlefish.ai
 - **Aaron Westphal**: [To be provided]
 - **Marshall**: [Via Patrick]
 
-## 🔗 Important Links
+## Important Links
 
 - **GitHub Repo**: https://github.com/aspenas/candlefish-crown
 - **Slack Channel**: [To be created by Tyler]

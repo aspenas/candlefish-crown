@@ -2,19 +2,19 @@
 
 Welcome to the Crown Trophy automation project, Aaron! This document provides everything you need to get up to speed and start contributing effectively.
 
-## 🎯 Project Overview
+## Project Overview
 
 ### The Vision
 We're building an AI-powered automation system for Crown Trophy that will revolutionize how they handle engraving orders, inventory, and vendor management. This isn't just another CRUD app - it's a sophisticated document intelligence system that will save franchises hundreds of thousands of dollars annually.
 
-### Your Role
-As our full-stack developer, you'll have the flexibility to either:
-1. Take the first stab at the entire development (recommended if you prefer ownership)
-2. Refine and enhance the initial scope we create
+### Partnership Approach
+As our development partner, we're offering flexible collaboration options:
+1. Lead the initial development architecture (recommended for maximum autonomy)
+2. Collaborate on design and enhance our initial scope
 
-You have **root access** to the project and all API keys - we trust you to make architectural decisions that align with our goals.
+You have **full access** to the project and all API keys - we value your architectural insights and technical leadership.
 
-## 🚨 Critical Context
+## Critical Context
 
 ### Company Status
 - **Candlefish AI LLC** was just approved by Morgan Stanley last week
@@ -28,7 +28,7 @@ You have **root access** to the project and all API keys - we trust you to make 
 - **GitHub**: You have access to this repository
 - **Communication**: Direct access to Patrick, Tyler, and Marshall
 
-## 💡 The Business Problem
+## The Business Problem
 
 ### Current Pain Points at Crown Trophy
 
@@ -56,7 +56,7 @@ You have **root access** to the project and all API keys - we trust you to make 
    - Promotions change every few years
    - **Our Goal**: AI-powered vendor selection
 
-## 🏗️ Technical Architecture
+## Technical Architecture
 
 ### Core Technology Stack
 ```
@@ -117,7 +117,7 @@ Integrations:
                         └─────────────────┘
 ```
 
-## 🚀 Development Roadmap
+## Development Roadmap
 
 ### Phase 1: Foundation (Weeks 1-4) - CURRENT PHASE
 - [x] Requirements gathering
@@ -144,7 +144,7 @@ Integrations:
 - [ ] Multi-franchise rollout
 - [ ] Market packaging
 
-## 🔧 Getting Started
+## Getting Started
 
 ### 1. Environment Setup
 ```bash
@@ -178,7 +178,7 @@ npm run dev
 python services/document_processor.py
 ```
 
-## 📊 Business Metrics & Goals
+## Business Metrics & Goals
 
 ### Success Criteria
 1. **Time Reduction**: 45 minutes → <1 minute for engraving data entry
@@ -191,7 +191,7 @@ python services/document_processor.py
 - Potential market: $7.67M in annual savings
 - Goal: Become the industry standard solution
 
-## 🎨 UI/UX Priorities
+## UI/UX Priorities
 
 ### Design Principles
 1. **Faster than Google Sheets** - Performance is critical
@@ -205,7 +205,7 @@ python services/document_processor.py
 3. **Vendor Selection**: One-click optimization
 4. **Multi-location**: Seamless transfers
 
-## 🔐 Security & Compliance
+## Security & Compliance
 
 ### Requirements
 - All customer data encrypted at rest
@@ -218,7 +218,7 @@ python services/document_processor.py
 - Multi-location data isolation
 - API rate limiting per franchise
 
-## 📚 Resources & Documentation
+## Resources & Documentation
 
 ### Project Documents
 1. [Initial Meeting Transcript](../inputs/InitialMeeting_TranscriptedNotes.txt) - Raw notes from Marshall
@@ -231,7 +231,7 @@ python services/document_processor.py
 - [QuickBooks Desktop SDK](https://developer.intuit.com/app/developer/qbdesktop/docs)
 - [LangChain Documentation](https://python.langchain.com/)
 
-## 🤔 Key Decisions for Aaron
+## Key Decisions for Aaron
 
 ### Immediate Priorities
 1. **Architecture**: Monolith vs microservices for initial MVP?
@@ -239,22 +239,22 @@ python services/document_processor.py
 3. **AI Integration**: Direct API vs LangChain abstraction?
 4. **Database**: Single vs separate databases per location?
 
-### Development Approach
-Would you prefer to:
-- A) Build the initial architecture and let us refine?
-- B) Review our initial implementation and improve?
-- C) Collaborate on architecture then divide features?
+### Development Approach Options
+We could approach this in several ways:
+- A) You lead the initial architecture and we collaborate on refinements
+- B) We create an initial implementation for you to review and enhance
+- C) We collaborate on architecture design then divide feature development
 
-## 💬 Questions for Marshall
+## Questions for Joint Marshall Sessions
 
-When you connect with Marshall, key areas to explore:
+When we meet with Marshall together, key areas to explore:
 1. Exact Corel Draw version and export formats
 2. Laser engraver software compatibility
 3. Peak season timing and volume
 4. Most complex engraving job examples
 5. QuickBooks Desktop integration specifics
 
-## 🚦 Next Steps
+## Next Steps
 
 ### Week 1 Tasks
 1. [ ] Set up development environment
@@ -268,7 +268,7 @@ When you connect with Marshall, key areas to explore:
 - **Patrick**: Schedule architecture review meeting
 - **Aaron**: Review docs, set up environment, initial questions
 
-## 🎯 Final Thoughts
+## Final Thoughts
 
 This project has massive potential - both for Crown Trophy and as a product we can sell to the entire industry. Your expertise will be crucial in making this vision a reality.
 
